@@ -1,2 +1,1 @@
-# szw.github.io
-记录一些容易忘记的东西
+-   [git 本地项目添加多个远程仓库](www.baidu.com)
